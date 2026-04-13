@@ -1,9 +1,5 @@
 # Plasma Level and Age Analysis
-#
-# Professionalized version of the original project file.
-# The code and stated results are retained from the source as closely as possible.
-# Output text from the original file has been converted to comments where needed for readability.
-#
+
 
 # Dependancy-of-plasma-level-of-a-polyamine-on-age
 
