@@ -1,6 +1,5 @@
 # Plasma Level and Age Analysis
 
-
 # Dependancy-of-plasma-level-of-a-polyamine-on-age
 
 # In a medical study, researchers collected measurements from 25 young children. Of interest is the dependency of the plasma level of a polyamine on age.
